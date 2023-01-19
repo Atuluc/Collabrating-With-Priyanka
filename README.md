@@ -9,6 +9,8 @@ The definition of a word.
 word processor
 
 
-Then, both of you make a pull request for your branches and assign the other person.
+Then, both of yo
 
-Once you have reviewed each other's work, merge the branches to the main.
+Once you have reviewed each other's work, merge the branches to 
+the main.
+## Good choice Atul!!  
